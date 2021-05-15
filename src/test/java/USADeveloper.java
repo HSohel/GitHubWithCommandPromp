@@ -17,4 +17,10 @@ public class USADeveloper {
     public void FireFoxDriver(){
         System.out.println("This is FireFox driver");
     }
+
+
+    @Test
+    public void edgeDriver(){
+        System.out.println("This is Edge driver");
+    }
 }
