@@ -12,4 +12,9 @@ public class IndiaDeveloper {
         System.out.println("This is iphone driver");
 
     }
+
+    public void testDriver(){
+        System.out.println("This is Test driver");
+
+    }
 }
