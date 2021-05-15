@@ -1,0 +1,16 @@
+
+<suite name="Automation_Test" verbose="1" >
+    <test name="Mortgage_Calculator" >
+        <classes>
+            <class name="automation_test.mortgage_calculator.CalculateApr" />
+            <class name="automation_test.mortgage_calculator.CalculateMonthlyPayment"/>
+        </classes>
+    </test>
+
+    <test name="php_travels" >
+        <classes>
+            <class name="automation_test.php_travels.PHPTravel"/>
+        </classes>
+    </test>
+
+</suite>
