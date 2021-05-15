@@ -11,4 +11,10 @@ public class USADeveloper {
     public void chromeDriver(){
         System.out.println("This is chrome driver");
     }
+
+
+    @Test
+    public void FireFoxDriver(){
+        System.out.println("This is FireFox driver");
+    }
 }
